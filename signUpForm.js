@@ -23,7 +23,7 @@ class SignUpForm extends Component {
           Name{" "}
           <input
             type="text"
-            placeholder="Enter login"
+            placeholder="Please, Enter your login"
             value={login}
             onChange={this.handleChange}
           />{" "}
