@@ -33,6 +33,6 @@ const payForProducts = () => console.log("I payed for products");
 
     console.log("I'm at home");
   } catch (err) {
-    console.log("error");
+    console.log("Error");
   }
 })();
